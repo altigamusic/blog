@@ -1,6 +1,1 @@
----
-title: Welcome to my blog
----
-
-# Test
-Testing
+I do demoscene productions (mainly sizecoding) and produce music.
